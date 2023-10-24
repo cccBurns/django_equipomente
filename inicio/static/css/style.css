@@ -34,7 +34,7 @@ img {
         rgba(29,30,35,0.4),
         rgba(29,30,35,0.4)
     ),
-    url(./css/assets/curiosidades-de-la-carrera-de-medicina.jpg);
+    url(../assets/curiosidades-de-la-carrera-de-medicina.jpg);
     background-position: top center;
     background-repeat: no-repeat;
     background-size: cover;
